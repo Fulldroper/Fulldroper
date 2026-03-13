@@ -9,33 +9,19 @@ I enjoy building distributed systems, realtime platforms, and cross-platform des
 ## 🔧 Tech Stack
 
 **Languages:**  
-![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust&logoColor=white)  
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+Rust • Go • Node.js • JavaScript • Python • C++
 
 **Backend / Architecture:**  
-![REST API](https://img.shields.io/badge/-REST_API-007ACC?style=for-the-badge)  
-![WebSockets](https://img.shields.io/badge/-WebSockets-FF6C37?style=for-the-badge)  
-![Microservices](https://img.shields.io/badge/-Microservices-6DB33F?style=for-the-badge)  
-![Distributed Systems](https://img.shields.io/badge/-Distributed_Systems-4B0082?style=for-the-badge)
+REST APIs • WebSockets • Microservices • Distributed Systems
 
 **Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
-![Redis](https://img.shields.io/badge/-Redis-D32F2F?style=for-the-badge&logo=redis&logoColor=white)
+MongoDB • MySQL • Redis
 
 **Frontend:**  
-![Vue.js](https://img.shields.io/badge/-Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Vue 3 • React • TailwindCSS
 
 **Systems / Infrastructure:**  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Tauri](https://img.shields.io/badge/-Tauri-4F46E5?style=for-the-badge&logo=tauri&logoColor=white)
+Linux • Docker • Tauri
 
 ---
 
