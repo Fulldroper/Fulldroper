@@ -1,4 +1,4 @@
-# 🖖 Hi, I'm Nora (Fulldroper)
+# 🖖 Hi, I'm Fulldroper
 
 Senior Backend / Systems Engineer focused on high-performance software, developer tooling, automation, and system-level applications.
 
